@@ -1,0 +1,33 @@
+
+******Random Projection Result*********
+Name: Prashant Badadhe
+UCID- pb498
+***************************************
+
+Ionosphere split:
+	Original data: LinearSVC best C = 1, best CV error = 6.4516
+	Random hyperplane data: For k = 10000:
+	LinearSVC best C = 0.001, best CV error = 3.2258
+
+Breast cancer split:
+	Original data: LinearSVC best C = 100, best CV error = 1.9627%
+	Random hyperplane data: For k = 10000:
+	LinearSVC best C = 0.1, best CV error = 4.9015%
+
+Qsar split:
+	Original data: LinearSVC best C = .1, best CV error = 11.5795%
+	Random hyperplane data: For k = 10000:
+	LinearSVC best C = 0.001, best CV error = 11.0573
+
+Climate split:
+	Original data: LinearSVC best C = 100, best CV error = 2.4108%
+	Random hyperplane data: For k = 10000:
+	LinearSVC best C = 0.001, best CV error = 3.1259%, test error = 3.7%
+
+Micromass split:
+	Original data: LinearSVC best C = .1, best CV error = 6.1982%
+	Random hyperplane data: For k = 10000:
+	LinearSVC best C = .1, best CV error = 3.7857%
+
+
+
